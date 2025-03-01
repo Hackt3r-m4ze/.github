@@ -28,7 +28,6 @@ I break things to make them stronger. Passionate about securing applications, ne
 
 - Exploiting security flaws & writing custom exploits
 - Automating security testing & creating hacking tools
-- Reverse engineering & malware analysis
 - Building security-first architectures
 - Educating teams on secure coding practices
 
