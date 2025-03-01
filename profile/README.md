@@ -14,7 +14,7 @@ I break things to make them stronger. Passionate about securing applications, ne
 - 🖥️ **Secure SDLC & DevSecOps** – Embedding security into CI/CD pipelines
 - 🔬 **Security Research** – Always experimenting, always learning
 - 🛡️ **Compliance & Risk Management** – PCI DSS, ISO 27001, SOC 2, HIPAA
-- 🐳 **Container & Kubernetes Security** – Locking down Docker & K8s environments
+<!-- - 🐳 **Container & Kubernetes Security** – Locking down Docker & K8s environments -->
 
 ## ⚡ Tools & Technologies
 
